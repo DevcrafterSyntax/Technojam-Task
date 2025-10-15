@@ -1,0 +1,18 @@
+Prompt Used:
+Create a fully functional Tic Tac Toe game using only HTML, CSS, and JavaScript in a single file. 
+Requirements:
+1. The game must support two human players taking turns (X and O) by clicking cells on a 3x3 grid.
+2. Show whose turn it is ("Player X's turn" or "Player O's turn").
+3. Detect win or draw and display the result clearly.
+4. Include a "Play Again" button that resets the game board.
+5. Use simple but attractive CSS to center the game and make it responsive for desktop and mobile.
+6. All code (HTML, CSS, JS) must be in one file, no external links or assets.
+7. Code should be ready to deploy directly to Netlify or Vercel.
+Output the complete code inside one HTML file, enclosed within <html> ... </html> tags.
+
+
+Deployment Link:
+https://melodious-faloodeh-936a9c.netlify.app
+
+Explanation:
+This prompt was designed to generate a single-file Tic Tac Toe game with HTML, CSS, and JS that includes UI, logic, and replay functionality, ready for deployment.
